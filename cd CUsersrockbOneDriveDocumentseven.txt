@@ -1,0 +1,7 @@
+cd "C:\Users\rockb\OneDrive\Documents\event management\event-backend"
+npm start
+✅ API running at http://localhost:3000
+cd "C:\Users\rockb\OneDrive\Documents\event management\event-frontend"
+npm run dev
+VITE v5.4.0 ready in 1.2s
+Local: http://localhost:5173/
